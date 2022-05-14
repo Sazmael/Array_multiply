@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1638131450 source:c:\users\olman\desktop\programación\codeblock c++\test tarea1\proyecto\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
+1638131769 source:c:\users\olman\desktop\olmandavila-proyecto\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
+1638131769 source:c:\users\olman\uned\intro programacion\proyecto\olmandavila-proyecto\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
